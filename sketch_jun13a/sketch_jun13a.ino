@@ -4,7 +4,7 @@
 
 // WiFi credentials
 const char* ssid = "Fiberstream";
-const char* password = "12345678";
+const char* password = "password";
 
 // Server address
 const char* serverName = "http://192.168.1.12:5000/air_quality";  
