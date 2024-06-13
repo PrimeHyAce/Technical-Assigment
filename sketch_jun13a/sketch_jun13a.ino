@@ -90,5 +90,5 @@ void loop() {
     Serial.println("WiFi Disconnected");
   }
 
-  delay(60000); // Send data every 60 detik
+  delay(60000); // Send data every 60 sec
 }
